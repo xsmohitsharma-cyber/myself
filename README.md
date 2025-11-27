@@ -75,9 +75,8 @@ Shared services that run like product teams instead of ticket machines.
 ---
 
 ### 🔗 Connect
-📌 LinkedIn – *add link*  
-📌 Blog/Website – *add link*  
-📌 Email – *optional*  
+📌 LinkedIn – https://www.linkedin.com/in/xsmohit/
+📌 Email – xsmohitsharma@gmail.com
 
 If you’re building a GCC, scaling cloud ops, or need clarity in chaos — we talk.
 
