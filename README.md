@@ -72,14 +72,6 @@ Shared services that run like product teams instead of ticket machines.
 </div>
 
 
-### 🐍 Watch my contribution snake
-
-
-<div align="center">
-
-  ![snake gif](https://github.com/xsmohitsharma-cyber/xsmohitsharma-cyber/blob/output/github-contribution-grid-snake.svg)
-
-</div>
 
 ---
 
