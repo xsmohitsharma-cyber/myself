@@ -26,6 +26,22 @@ Put all three together — you get clarity plus execution.
 </div>
 
 ---
+### 📚 Author • The Writer Side of Me
+
+Words are my second language.  
+Technology builds systems; writing builds people.
+
+My books explore growth, clarity, and the inner architecture of life.  
+Not theory for reading — thought weapons for *living*.
+
+🔗 My Author Page  
+Amazon India —  
+`https://www.amazon.in/stores/Mohit-Sharma/author/B0FRGFNDSN`
+
+If ideas fuel your inner fire, you'll find something there built for you.
+
+---
+
 
 ### 🏆 Highlights people remember
 ✔ GRNI extractor overhaul → days to minutes  
