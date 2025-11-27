@@ -1,18 +1,100 @@
-# 💫 About Me:
-🔭 Currently working on<br>Building intelligent IT ecosystems that blend cloud, AI, and automation to make operations faster, safer, and more scalable.<br><br>👯 Looking to collaborate on<br>AI-driven transformation projects, enterprise IT modernization, IT governance frameworks, and meaningful tech solutions for businesses and nonprofits.<br><br>🤝 Looking for help with<br>Deep productization of AI coaching tools, scalable architectures for cloud-native delivery, and research around autonomous IT operations.<br><br>🌱 Currently learning<br>Generative AI for decision support, enterprise LLM applications, and new ways to turn large IT environments into self-optimizing systems.<br><br>💬 Ask me about<br>Cloud strategy, enterprise infrastructure, GCC setup, IT governance, DevOps, digital transformation roadmap planning, or just how to bring discipline and innovation together.<br><br>⚡ Fun fact<br>I write, coach, think in systems, and occasionally find clarity in astrology. Technology runs on logic, but life still runs on patterns.
+<!-- 🔥 ANIMATED TITLE -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=FFD300&center=true&vCenter=true&lines=MOHIT+SHARMA;IT+LEADER+%7C+CLOUD+%26+DEVOPS;AUTHOR+%7C+ASTRO+GUIDE+%7C+LIFE+COACH;BUILDING+SYSTEMS+THAT+SCALE" />
+</h1>
 
-
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/xsmohitsharma/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/mo_hit__hai/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/xsmohit/) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/https://www.quora.com/profile/Mohit-Sharma-4572) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/xsmohitsharma) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:xsmohitsharma@gmail.com) 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=xsmohitsharma-cyber&theme=merko&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=xsmohitsharma-cyber&theme=merko&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=xsmohitsharma-cyber&theme=merko&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<h3 align="center">AVP – IT Services | 22+ yrs IT Leadership | Cloud, Infra, DevOps, Governance</h3>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=xsmohitsharma-cyber&icon=9&color=13)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### ⚡ About me  
+I don’t believe tech should look cold. I make infra breathe, clouds obey, and teams move like one mind.  
+Work is logic. Coaching is emotion. Astrology is intuition.  
+Put all three together — you get clarity plus execution.
+
+---
+
+### 🛠 What I work with
+<div align="center">
+  
+| Cloud | Automation | Infra | DevOps | Databases | Security | Leadership |
+|---|---|---|---|---|---|---|
+| AWS | Terraform | VMware | Jenkins | Oracle | SOC2 | Stakeholder mgmt |
+| Azure | Ansible | Linux | GitHub Actions | MySQL | ISO | Strategic ops |
+| GCP | Python | Windows Server | Docker | Postgres | Risk & Audit | GCC build-outs |
+
+</div>
+
+---
+
+### 🏆 Highlights people remember
+✔ GRNI extractor overhaul → days to minutes  
+✔ ZEEL RFP, Governance Model & Ops blueprint  
+✔ Full ISO internal audit delivery  
+✔ SOC2 Type-2 audit execution with auditors  
+✔ Timesheet product rollout at QGEBS  
+✔ Cloud + Shared Services maturity roadmaps  
+
+I solve tech like puzzles and people like systems.
+
+---
+
+### 🌍 Current mission
+Leveling up cloud governance.  
+AI-enhanced decision support for IT Ops.  
+Shared services that run like product teams instead of ticket machines.
+
+---
+
+### 🧠 My layered identity
+
+
+---
+
+### 📈 GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" height="150" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight" height="150" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" height="120" />
+
+</div>
+
+---
+
+### 🐍 Watch my contribution snake
+
+<div align="center">
+  
+![snake gif](https://github.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/blob/output/github-contribution-grid-snake.svg)
+
+</div>
+
+---
+
+### 🔗 Connect
+📌 LinkedIn – *add link*  
+📌 Blog/Website – *add link*  
+📌 Email – *optional*  
+
+If you’re building a GCC, scaling cloud ops, or need clarity in chaos — we talk.
+
+---
+
+### 🎙 Fun fact
+Tech + Astrology.  
+Left brain + Right brain.  
+Binary + Beyond.  
+That balance is my unfair advantage.
+
+---
+
+### 🔥 Closing note
+Nobody builds legacy by playing small.  
+I don't.
+
+---
+
+
