@@ -55,20 +55,29 @@ Shared services that run like product teams instead of ticket machines.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" height="150" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight" height="150" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" height="120" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=xsmohitsharma-cyber&show_icons=true&theme=tokyonight" 
+    height="150" 
+  />
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=xsmohitsharma-cyber&theme=tokyonight" 
+    height="150" 
+  />
+  <br/>
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=xsmohitsharma-cyber&layout=compact&theme=tokyonight" 
+    height="120" 
+  />
 
 </div>
 
----
 
 ### 🐍 Watch my contribution snake
 
+
 <div align="center">
-  
-![snake gif](https://github.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/blob/output/github-contribution-grid-snake.svg)
+
+  ![snake gif](https://github.com/xsmohitsharma-cyber/xsmohitsharma-cyber/blob/output/github-contribution-grid-snake.svg)
 
 </div>
 
